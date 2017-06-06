@@ -1,4 +1,4 @@
-#__GIT Command Line 명령어 정리__
+# __GIT Command Line 명령어 정리__
 * * *
 #### __1. 환경설정__
 > - git config --global user.name "사용자명"<br/>
