@@ -36,4 +36,4 @@
 #### 5. 수평선
 
 ####이미지
-![Alt text](/uploads\git\egit_01.png)
+![Alt text](\uploads\git\egit_01.png)
