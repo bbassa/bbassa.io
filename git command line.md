@@ -21,7 +21,7 @@
 > (아직 원격저장소에는 반영이 안된 상태)
 >  ![Alt text](/uploads/git/gitFile.png)
 >
-> - git push
+> - git push<br />
 > -로컬저장소의 HEAD안에 있는 파일을 원격저장소에 반영합니다.
 
 
