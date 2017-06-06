@@ -1,5 +1,5 @@
-##__GIT Command Line 명령어 정리__
-
+#__GIT Command Line 명령어 정리__
+* * *
 #### __1. 환경설정__
 > - git config --global user.name "사용자명"
 > 사용자명을 등록합니다 (필수)
