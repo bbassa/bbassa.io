@@ -35,12 +35,11 @@
 #### __4. Branch & Merge__
 > - git branch 
 > 브랜치의 종류와 현재 작업중인 브랜치를 확인 할수 있습니다.
-> > ![Alt text](/uploads/git/branchFile.png)
+>  ![Alt text](/uploads/git/branchFile.png)
 > - git branch 브랜치명
 > 새로운 브랜치를 생성합니다.
 > ![Alt text](/uploads/git/branchFile2.png)
 > - git branch -d 브랜치명
-> 브랜치를 삭제 합니다.
 > ![Alt text](/uploads/git/branchFile3.png)
 > - git merge 브랜치명
 > 현재 작업중인 브랜치에 다른 브랜치에서 작업한 내용을 추가합니다.
