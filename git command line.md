@@ -17,11 +17,13 @@
 > -Untracked files을 Staging Area에 올립니다.
 > 
 > - git commit -m "커밋 메시지"<br/>
-> -Staging Area에 있는 파일을 저장소에 추가한다.
+> -Staging Area에 있는 파일을 로컬저장소의 HEAD에 반영합니다.
+> (아직 원격저장소에는 반영이 안된 상태)
 >  ![Alt text](/uploads/git/gitFile.png)
->  
-> - git checkout 브랜치명<br/>
-> -과거의 작업 폴더로 되돌아간다. 
+>
+> - git push
+> -로컬저장소의 HEAD안에 있는 파일을 원격저장소에 반영합니다.
+
 
 #### __3. 원격저장소__
 > - git clone 저장소주소<br/>
@@ -56,5 +58,5 @@
 > - git merge 브랜치명<br/>
 > -현재 작업중인 브랜치에 다른 브랜치에서 작업한 내용을 추가합니다. 
 > 
-> - git remote rm 이름<br/>
-> -원격저장소를 제거합니다.
+> - git checkout 브랜치명<br/>
+> -과거의 작업 폴더로 되돌아간다. 
