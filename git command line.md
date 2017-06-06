@@ -20,3 +20,13 @@
 > Staging Area에 올라가 있는 파일들을 Git Repository에 올립니다.
 
 ![Alt text](/uploads/git/gitFile.png)
+
+#### __3. 원격저장소__
+> - git clone 저장소주소
+> 원격저장소를 복제하여 저장소를 생성합니다.
+> - git remote add 이름 저장소주소
+> 새로운 원격 저장소를 추가합니다.
+> - git remote
+> 추가한 원격저장소의 목록을 확인합니다.
+> - git remote rm 이름
+> 원격저장소를 제거합니다.
